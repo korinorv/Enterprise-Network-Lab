@@ -6,7 +6,7 @@ This repository contains the complete documentation, architectural design, and v
 ## Project Documentation
 The following documents provide the technical specifications and presentation for the implementation:
 * [View Technical Report (PDF)](./Documentation/Enterprise%20Network%20Project%20Report.pdf)
-* [View Presentation Slides (PPTX)](./Documentation/Network_Project_Final_Slides.pptx)
+* [View Presentation Slides (PPTX)](./Documentation/Enterprise%20Network%20Project%20Report.pptx)
 
 ## Technical Architecture
 The infrastructure is modeled on the Cisco Three-Tier Hierarchical Model:
